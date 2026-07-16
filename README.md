@@ -20,11 +20,25 @@ Mission: Solving real-world problems with AI
 ```
 
 ---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thaaraniilaya/Thaaraniilaya/output/dist/github-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Thaaraniilaya/Thaaraniilaya/output/dist/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 ### 📈 Live Metrics Dashboard
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Thaaraniilaya/Thaaraniilaya/main/github-metrics.svg" alt="metrics dashboard" width="100%" />
 </div>
+
+---
 
 ### 🚀 Featured Projects
 
