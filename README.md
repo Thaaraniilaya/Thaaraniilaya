@@ -20,6 +20,11 @@ Mission: Solving real-world problems with AI
 ```
 
 ---
+### 📈 Live Metrics Dashboard
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Thaaraniilaya/Thaaraniilaya/main/github-metrics.svg" alt="metrics dashboard" width="100%" />
+</div>
 
 ### 🚀 Featured Projects
 
