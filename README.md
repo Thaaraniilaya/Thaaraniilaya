@@ -93,16 +93,7 @@ Built an end-to-end real-time gaze tracking system: iris/eye landmark detection 
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thaaraniilaya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
 <img src="https://streak-stats.demolab.com/?user=Thaaraniilaya&theme=radical&hide_border=true&background=0D1117" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaaraniilaya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thaaraniilaya&theme=radical&no-frame=true&row=1&column=6" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
