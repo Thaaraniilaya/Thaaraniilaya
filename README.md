@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Thaarani%20Ilayaraja&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%E2%80%A2%20Computer%20Vision%20%26%20ML%20Engineer&descAlignY=55&descSize=18" />
+# Hi, I'm Thaarani Ilayaraja 👋
+### AI Developer · Computer Vision & ML Engineer
 
 <a href="https://www.linkedin.com/in/thaaraniilayaraja"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://thaaraniilaya.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -99,7 +100,5 @@ Built an end-to-end real-time gaze tracking system: iris/eye landmark detection 
 <div align="center">
 
 *"Turning data into intelligence — one model at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" />
 
 </div>
